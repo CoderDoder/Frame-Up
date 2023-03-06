@@ -26,3 +26,8 @@ function draw(){
 function preload(){
     
 }
+
+function takeSnapshot(){
+    save("snap.png");
+
+}
